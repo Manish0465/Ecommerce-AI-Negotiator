@@ -69,44 +69,43 @@ A smart Java-based eCommerce application that allows users to browse products, n
 
 ### 🔐 Login
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d0cb5b8-5beb-4099-80c1-29efd394052f" width="800"/>
+  <img src="https://github.com/user-attachments/assets/14f531e4-4a03-4ca0-b5cd-ef213d2bd02a" width="800"/>
 </p>
 
 ---
 
 ### 🏠 Home
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3017c96c-89a1-4656-be4a-2df7aec8d3e7" width="800"/>
+  <img src="https://github.com/user-attachments/assets/173322c5-285a-4cf1-b9e1-8776514f800c" width="800"/>
 </p>
 
 ---
 
 ### 🛍️ Product Catalog
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/806f293c-30ad-428b-8715-1cf679a72be8" width="800"/>
+  <img src="https://github.com/user-attachments/assets/1422a721-cca2-4057-ba8c-3bcd79c9dfa5" width="800"/>
 </p>
 
 ---
 
 ### 🛒 Shopping Cart
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49fe5308-abb9-4bab-8fea-f80087515a54" width="800"/>
+  <img src="https://github.com/user-attachments/assets/40bb6ff6-cb66-4234-84d5-4bbfd85d5714" width="800"/>
 </p>
 
 ---
 
 ### 🤖 AI Price Negotiator
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/152a26e9-dfa2-42ee-9ed3-c296cee36a6c" width="500"/>
+  <img src="https://github.com/user-attachments/assets/2ead3af2-bac4-434b-b131-2985312981a0" width="500"/>
 </p>
 
 ---
 
 ### 📉 Price Drop Alerts
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d616d697-c6a2-4b66-bb6f-569c29a33653" width="800"/>
+  <img src="https://github.com/user-attachments/assets/f6701a38-058f-422d-9c06-51bb338c93ce" width="800"/>
 </p>
-
 ---
 
 ## ⚙️ Setup Instructions
